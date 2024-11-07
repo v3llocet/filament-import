@@ -1,5 +1,5 @@
 {
-  "name": "konnco/filament-import",
+  "name": "v3llocet/filament-import",
   "description": "",
   "keywords": [
     "import",
@@ -18,6 +18,7 @@
       "email": "frankyso.mail@gmail.com"
     }
   ],
+  "type": "filament-plugin",
   "require": {
     "php": "^8.0",
     "filament/filament": "^3",
